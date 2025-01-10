@@ -72,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal Engine specific files
+*.log
+*.tmp
+*.ini
+*.bin
+*.json
+
+# Directories to ignore
+/Intermediate/
+/Saved/
+/Build/
+/DerivedDataCache/
