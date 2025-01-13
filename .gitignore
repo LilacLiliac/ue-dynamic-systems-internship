@@ -85,3 +85,7 @@ DerivedDataCache/*
 /Saved/
 /Build/
 /DerivedDataCache/
+/ReactiveFramework/Binaries
+/ReactiveFramework/Plugins/Developer/RiderLink
+/ReactiveFramework/Intermediate
+/ReactiveFramework/.idea
