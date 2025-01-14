@@ -3,14 +3,14 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "MyGameInstance.h"
+#include "Engine/GameInstance.h"
 #include "RF_GameInstanceBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class REACTIVEFRAMEWORK_API URF_GameInstanceBase : public UMyGameInstance
+class REACTIVEFRAMEWORK_API URF_GameInstanceBase : public UGameInstance
 {
 	GENERATED_BODY()
 	
